@@ -1,7 +1,27 @@
-# SQL-RSVP-movies
+# IMDb Movie Analytics: SQL Database Design & Business Intelligence Project
 RSVP Movies Analysis using SQL
 
-## Problem Introduction
-RSVP Movies is an Indian film production company which has produced many super-hit movies. They have usually released movies for the Indian audience but for their next project, they are planning to release a movie for the global audience in 2022.
+## Overview
+This project demonstrates a complete data analytics workflow using SQL, from database design and data modeling to advanced business analysis and executive reporting.
 
-The production company wants to plan their every move analytically based on data and have approached you for help with this new project. You have been provided with the data of the movies that have been released in the past three years. You have to analyse the data set and draw meaningful insights that can help them start their new project. 
+Using a large IMDb movie dataset, I designed a relational database, built an optimized schema, performed exploratory and business-focused analysis, and generated strategic recommendations for a fictional production company (RSVP Movies).
+
+The project showcases skills in:
+- SQL Database Design
+- Entity Relationship Modeling (ERD)
+- Data Cleaning & Transformation
+- Advanced SQL Querying
+- Business Intelligence & Analytics
+- Performance-Oriented Data Modeling
+- Executive Reporting & Data Storytelling
+
+## Project Objectives
+
+The primary goal of this project was to transform raw IMDb movie data into actionable business insights that could support strategic decision-making for a movie production company.
+Key business questions addressed include:
+- What genres consistently perform best?
+- Which production companies create the most successful films?
+- Who are the highest-performing directors, actors, and actresses?
+- What characteristics are shared by highly rated movies?
+- Which global studios could be valuable strategic partners?
+- What trends should influence future movie investments?
